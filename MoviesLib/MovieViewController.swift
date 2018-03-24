@@ -22,6 +22,8 @@ class MovieViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        lbTitle.text = "Logan, the movie\nHoje nos Cinemas"
     }
 
 }
